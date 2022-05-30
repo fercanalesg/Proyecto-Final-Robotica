@@ -2,8 +2,7 @@
 Profesor: Michel López
 
 Integrantes:
-Paula Márquez Pimentel
-Luis Fernando Canales Gallardo
+Paula Márquez Pimentel y Luis Fernando Canales Gallardo
 
 En el repositorio se encuentra el archivo en formato Python y las imagenes correspondientes que serán editadas por medio del código.
 
